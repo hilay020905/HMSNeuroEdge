@@ -64,18 +64,16 @@ Modern edge devices (IoT, wearables, drones, embedded vision systems) demand:
 
 * Custom ISA extensions for ML operations
 * Bare-metal runtime
-* C/C++ compiler support (LLVM/GCC – later stage)
-* Simple ML runtime (TinyML-style)
+* Simple ML runtime 
 * Assembly support for critical kernels
 
 ---
 
 ## 🛠️ Implementation Details
 
-* **RTL Language**: Verilog / SystemVerilog
+* **RTL Language**: Verilog
 * **Simulation**: Verilator / ModelSim
-* **FPGA Target**: Xilinx / Intel FPGA (initial validation)
-* **Toolchain**: RISC-V GNU Toolchain (if RISC-based)
+* **FPGA Target**: Xilinx Vivado
 
 ---
 

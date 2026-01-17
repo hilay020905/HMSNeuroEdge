@@ -100,7 +100,7 @@ HMSNeuroEdge/
 This project is intended to support:
 
 * Academic research papers (VLSI / Architecture / Embedded ML)
-* Conference and journal submissions
+* Conference submissions
 * Hands-on learning in processor design and ML hardware
 
 ---
@@ -118,8 +118,9 @@ This project is intended to support:
 
 ## 🤝 Contributors
 
-* **Hilay Patel** (Lead Designer)
-* Friends & collaborators (Architecture, RTL, ML)
+* **Hilay Patel** (Architecture Designer) 
+* **Madhav Tandon** (Software)
+* **Saptarshi Ghosh** (Machine learning workloads)
 
 Contributions, ideas, and discussions are welcome!
 
@@ -127,19 +128,4 @@ Contributions, ideas, and discussions are welcome!
 
 ## 📜 License
 
-This project will be released under an **open-source license** (TBD – MIT / Apache 2.0 preferred).
-
----
-
-## 🌟 Motivation
-
-> *"Efficient intelligence at the edge is the future. HMSNeuroEdge is a step towards making ML hardware accessible, efficient, and open."*
-
----
-
-If you want, I can next:
-
-* Refine this into **research-paper-ready wording**
-* Create a **project logo & tagline**
-* Define a **custom ML ISA extension**
-* Help you plan **milestones till tape-out / FPGA demo**
+This project will be released under an **open-source license** 

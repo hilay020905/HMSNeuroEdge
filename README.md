@@ -42,19 +42,12 @@ Modern edge devices (IoT, wearables, drones, embedded vision systems) demand:
 
 ### ⚙️ ML Acceleration
 
-* MAC units optimized for INT8 / INT16
-* SIMD / Vector-style execution
-* Optional systolic or tiled compute block
-* Support for common ML kernels:
-
-  * Convolution
-  * Matrix multiplication
-  * Activation functions (ReLU, Sigmoid, GELU – approximated)
+TBD
 
 ### 🔋 Power Optimization
 
 * Clock gating
-* Power gating (conceptual / ASIC-level)
+* Power gating 
 * DVFS-aware design
 * Reduced memory access via data reuse
 
